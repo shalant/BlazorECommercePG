@@ -17,7 +17,7 @@ namespace BlazorECommerce.Server.Data
                     Id = 1,
                     Title = "The Hitchhiker's Guide to the Galaxy",
                     Description = "Lorem",
-                    ImageUrl = "https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy#/media/File:H2G2_UK_front_cover.jpg",
+                    ImageUrl = "https://en.wikipedia.org/wiki/File:H2G2_UK_front_cover.jpg",
                     Price = 9.99m
                 },
                 new Product
